@@ -1,0 +1,7 @@
+{
+  "name": "NeonLattice VJ",
+  "description": "A modular, browser-based music visualizer designed for Ableton Live integration via MIDI and Audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
